@@ -2,7 +2,7 @@
 我的常用SublimeText3个人设置与插件
 
 # 用户设置
-```
+```javascript
 {
     "color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",// 主题
     "font_size": 16,
@@ -33,9 +33,11 @@
 ```
 
 # 插件安装
+```
 - Package Control
 - Babel //for React
 - CSS3
+- Autoprefixer
 - CSSComb || CSSOrder
 - ColorHighlighter
 - BracketHighlighter
@@ -48,4 +50,4 @@
 - WordCount
 - ConvertToUTF8
 - All Autocomplete
-
+```
