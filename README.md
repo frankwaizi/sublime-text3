@@ -55,5 +55,7 @@
 #主题推荐
 另外，推荐一款新主题：  
 [Material Theme](https://github.com/equinusocio/material-theme)  
+![Material Theme](http://i.imgur.com/9PyxJMN.gif)  
+和对应的AppBar:  
 [Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar)  
-![Material Theme](http://i.imgur.com/9PyxJMN.gif)
+![Material Theme App Bar](http://i.imgur.com/LVhR9jq.png)
