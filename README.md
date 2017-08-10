@@ -50,6 +50,7 @@
 - WordCount
 - ConvertToUTF8
 - All Autocomplete
+- GitGutter
 ```
 
 #主题推荐
